@@ -1,0 +1,8 @@
+{
+  "name": "Ionic4Example",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "9b26b746"
+}
